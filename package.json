@@ -1,7 +1,8 @@
 {
   "name": "test-react",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "This project is a mock made by Charles, to study how to deploy a React project on Heroku",
+  "repository": "https://github.com/Sachielsc/test-heroku-on-react.git",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
